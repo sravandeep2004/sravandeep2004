@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-salesp07.vercel.app/api?username=Sravandeepreddy2004&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sravandeepreddy2004&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravandeepreddy2004&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravandeepreddy2004&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sravandeepreddy2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
