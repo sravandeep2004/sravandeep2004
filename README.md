@@ -13,5 +13,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sravandeepreddy2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![GitHub Views](https://komarev.com/ghpvc/?username=Sravandeepreddy2004&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=Sravandeepreddy2004&color=FAC151)]
 [![](https://visitcount.itsvg.in/api?id=Sravandeepreddy2004&icon=0&color=5)](https://visitcount.itsvg.in)
