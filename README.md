@@ -13,6 +13,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sravandeepreddy2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/Sravandeepreddy2004/count.svg)
-
-[![](https://visitcount.itsvg.in/api?id=Sravandeepreddy2004&icon=0&color=5)](https://visitcount.itsvg.in)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravandeepreddy2004&theme=merko&hide_border=true&border_radius=10" alt="Activity graph">
