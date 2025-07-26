@@ -14,7 +14,3 @@
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravandeepreddy2004&theme=merko&hide_border=true&border_radius=10" alt="Activity graph">
-<img src="https://komarev.com/ghpvc/?username=SravandeepReddy2004&label=Profile%20Views&color=570987&style=for-the-badge" />
-<a href="https://linkedin.com/in/praneshnikhar" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
