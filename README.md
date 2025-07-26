@@ -14,3 +14,5 @@
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravandeepreddy2004&theme=merko&hide_border=true&border_radius=10" alt="Activity graph">
+---
+<img src="https://komarev.com/ghpvc/?username=SravandeepReddy2004&logo=discord&label=%20Views&color=570987&style=for-the-badge" />
