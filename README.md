@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravandeepreddy2004&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sravandeepreddy2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sravandeepreddy2004&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravandeepreddy2004&theme=merko&hide_border=true&border_radius=10" alt="Activity graph">
