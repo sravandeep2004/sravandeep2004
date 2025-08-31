@@ -15,5 +15,4 @@
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravandeepreddy2004&theme=merko&hide_border=true&border_radius=10" alt="Activity graph">
 
-<img src="https://komarev.com/ghpvc/?username=Sravandeepreddy2004&label=Profile%20views&color=FF69B4&style=for-the-badge&abbreviated=true&logo=github" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sravandeepreddy2004?style=for-the-badge&color=FF69B4&labelColor=1c1917&logo=github" alt="Followers" />
